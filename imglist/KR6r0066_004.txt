@@ -1,0 +1,6 @@
+004-0022a00	T 004-0022a	buddhist/T-taisho/T51/00/T51-0022.png
+004-0022b00	T 004-0022b	buddhist/T-taisho/T51/00/T51-0022.png
+004-0022c00	T 004-0022c	buddhist/T-taisho/T51/00/T51-0022.png
+004-0023a00	T 004-0023a	buddhist/T-taisho/T51/00/T51-0023.png
+004-0023b00	T 004-0023b	buddhist/T-taisho/T51/00/T51-0023.png
+004-0023c00	T 004-0023c	buddhist/T-taisho/T51/00/T51-0023.png
