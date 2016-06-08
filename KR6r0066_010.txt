@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:22.363235
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:16
 #+TITLE: 弘贊法華傳
 #+PROPERTY: CBETA_ID T51n2067
 #+PROPERTY: ID KR6r0066
@@ -17,7 +17,7 @@
 ¶
 藍谷沙門慧詳撰¶
 
-8書寫
+* 8書寫
 :PROPERTIES:
 :head: 書寫第八
 :END:
@@ -548,13 +548,13 @@
 半僧覺樹記之¶
 ¶
 
-附錄
+* 附錄
 :PROPERTIES:
 :head: 附錄
 :END:
 ¶
 
-天台法華疏序
+* 天台法華疏序
 :PROPERTIES:
 :head: 天台法華疏序
 :END:

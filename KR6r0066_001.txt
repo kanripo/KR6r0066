@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:22.129211
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:16
 #+TITLE: 弘贊法華傳
 #+PROPERTY: CBETA_ID T51n2067
 #+PROPERTY: ID KR6r0066
@@ -29,7 +29,7 @@ No.2067¶
   * 書寫第八　第十卷¶
 ¶
 
-1圖像
+* 1圖像
 :PROPERTIES:
 :head: 圖像第一
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:22.340008
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:16
 #+TITLE: 弘贊法華傳
 #+PROPERTY: CBETA_ID T51n2067
 #+PROPERTY: ID KR6r0066
@@ -17,7 +17,7 @@
 ¶
 藍谷沙門慧祥撰¶
 
-7轉讀
+* 7轉讀
 :PROPERTIES:
 :head: 轉讀第七
 :END:
