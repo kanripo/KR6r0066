@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:22.253597
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:16
 #+TITLE: 弘贊法華傳
 #+PROPERTY: CBETA_ID T51n2067
 #+PROPERTY: ID KR6r0066
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2067
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0066_T_000-0012b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6r0066_T_006-0026c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6r0066_T_006-0026c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 弘贊法華傳卷第六¶
+弘贊法華傳卷第六¶
 ¶
 藍谷沙門慧詳撰¶
 
-6誦持
-:PROPERTIES:
-:head: 誦持第六
-:END:
-¶
+* 誦持第六¶
 
   
   * 西魏文皇帝
@@ -394,7 +389,7 @@
 不復來矣。於是數日而終。¶
 
 釋正則。不知何許人也。宿植芳因。早敦信悟。¶
-落采之後。即誦法華。甞與治城寺素法師。一¶
+落釆之後。即誦法華。甞與治城寺素法師。一¶
 夏同住。素。于時為人講法華經。夜須看讀而¶
 燈滅。欲出外取火。聞則師誦法華經。聲韻甚¶
 高。意稍嫌之。欲過語則。開戶舉簾將出。乃見¶

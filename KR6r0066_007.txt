@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:22.276620
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:16
 #+TITLE: 弘贊法華傳
 #+PROPERTY: CBETA_ID T51n2067
 #+PROPERTY: ID KR6r0066
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2067
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0066_T_000-0012b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0066_T_007-0031b> ¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 弘贊法華傳卷第七¶
+弘贊法華傳卷第七¶
 ¶
 藍谷沙門慧詳撰¶
 
-:PROPERTIES:
-:head: 誦持第六之二
-:END:
-¶
+** 誦持第六之二¶
 
   
   * 北齊靈巖寺東林僧¶
@@ -130,7 +126,7 @@
 食長齊。不受嚫施。無貪無瞋。心行調善。布¶
 衣獘衲。不居房室止有繩床。在步廊下。誦¶
 法華經一部。誦時。口必有密光。看者。皆見¶
-照於檐宇。年七十五而終。即陳宣時也。
+照於擔宇。年七十五而終。即陳宣時也。
 
 又¶
 高[邱-丘+王]縣比丘尼花手。誦法華經。適通第一。右¶

@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:22.129211
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:16
 #+TITLE: 弘贊法華傳
 #+PROPERTY: CBETA_ID T51n2067
 #+PROPERTY: ID KR6r0066
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2067
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0066_T_000-0012b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0066_T_001-0012b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2067¶
-
- 弘贊法華傳卷第一¶
+No. 2067¶
+弘贊法華傳卷第一¶
 ¶
 藍谷沙門惠詳撰¶
 
@@ -29,11 +28,7 @@ No.2067¶
   * 書寫第八　第十卷¶
 ¶
 
-1圖像
-:PROPERTIES:
-:head: 圖像第一
-:END:
-¶
+* 圖像第一¶
 
   
   * 西域祇洹寺寶珠寶塔內說此經像¶

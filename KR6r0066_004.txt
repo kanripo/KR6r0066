@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:22.208234
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:16
 #+TITLE: 弘贊法華傳
 #+PROPERTY: CBETA_ID T51n2067
 #+PROPERTY: ID KR6r0066
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2067
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0066_T_000-0012b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0066_T_004-0021c> ¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 弘贊法花傳卷第四¶
+弘贊法花傳卷第四¶
 ¶
 藍谷沙門慧詳撰¶
 
-4修觀
-:PROPERTIES:
-:head: 修觀第四
-:END:
-¶
+* 修觀第四¶
 
   
   * 陳南岳禪慧思
